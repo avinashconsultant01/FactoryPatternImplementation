@@ -1,0 +1,11 @@
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\MOCK_DATA.json
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReference.cache
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CopyComplete
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\IntegratedAssoc\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
