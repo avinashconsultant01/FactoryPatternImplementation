@@ -28,7 +28,7 @@ namespace SortAlgorithm
 
             var contactListAscQuick = SortFactory.GetSortType(SortType.QuickSort, SortOrder.Asc).Sort(contactList);
 
-            var contactListDescQuick = SortFactory.GetSortType(SortType.QuickSort, SortOrder.Desc).Sort(contactList);
+           
 
 
         }
